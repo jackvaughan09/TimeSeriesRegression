@@ -10,7 +10,7 @@ By accurately forecasting sales, WoMart can optimize its workforce and ensure th
 
 ## Data Description
 
-The ![data](https://www.kaggle.com/datasets/shelvigarg/sales-forecasting-womart-store/download?datasetVersionNumber=1) consists of 18 months sales data from January 2018 to May 2019, including the date, region code, store type, location type number of orders per day for each store and whether the day was holiday and any promotion deals were going on. Weekly data for each region has been build and used.
+The [data](https://www.kaggle.com/datasets/shelvigarg/sales-forecasting-womart-store/download?datasetVersionNumber=1) consists of 18 months sales data from January 2018 to May 2019, including the date, region code, store type, location type number of orders per day for each store and whether the day was holiday and any promotion deals were going on. Weekly data for each region has been build and used.
 
 ## Approach
 
